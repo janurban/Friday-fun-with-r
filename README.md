@@ -1,2 +1,2 @@
-# Web-scrapping-blesk
+# Friday Fun With R
 This is our web scrapping project.
