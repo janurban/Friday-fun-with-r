@@ -1,5 +1,12 @@
 # Friday Fun With R
 
+13.8-17.9 --------------------------------------- 
+JU je na dovolené; příští setkání 17.9.
+Momentálně náš skipt (#4) umí počítat četnost slov v textu článku (bez stopwords).
+Úkoly:
+1. Zkuste spočítat frekvenci slova "klima" v textu;
+2. Zkuste spořítat frekvenci kořene slova "klim".
+
 Týden 5 (od 30.7.) ---------------------------------------
 Úkol: Podívejte se na Scrappovací script č. 3; zkuste vyhodit z textu česká stop words (viz seznam českých stopwords, na který je odkaz v textu).
 
