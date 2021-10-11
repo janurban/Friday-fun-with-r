@@ -17,7 +17,7 @@ for (i in (1:len.article.index)) {
   article.num <- article.index[i]
   
   blesk.wbpg <- NULL
-  try(
+    try(
     blesk.wbpg <- read_html(paste(blesk.url,article.num,"/", sep=""))) # obsah hlavní stránky
     if (is.null (blesk.wbpg) == F)
       {
@@ -51,7 +51,12 @@ for (i in (1:len.article.index)) {
       } else {our.database <- rbind(our.database, new.database.entry)}
     
     print(paste ("Downloaded", i, "out of", len.article.index))
-    Sys.sleep(5)  
+    # Sys.sleep(5)  
 }
+
+reduced.database <- our.database [sample(c(1:1000), size = 50, replace = F), ] 
+
+
+
 
  
