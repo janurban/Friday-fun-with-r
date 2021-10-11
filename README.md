@@ -1,4 +1,9 @@
 # Friday Fun With R
+11.10. --------------------------------------- 
+Máme fugující scrappingový script (part_A_scrapping_v1.R), který náhodně vybírá a stahuje články do databáze.
+Úkoly: 
+1. projděte scrapingový script; máte nějaké otázky, něco, čemu nerozumíte?
+2. vytvořit funkci, která bude počítat četnost pro kořen slova "klim" v textu.
 
 13.8-17.9 --------------------------------------- 
 JU je na dovolené; příští setkání 17.9.
