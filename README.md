@@ -1,4 +1,10 @@
 # Friday Fun With R
+12.11. --------------------------------------- 
+Detekce kořene slova ve skriptu: part_B_analysis_v2.R
+Úkoly: 
+1. Prostudujte skript a připravte si event. otázky.
+2. Zkuste přetransformovat info o datu v databázi do fotmátu, který R používá pro datum (viz. postix).
+
 11.10. --------------------------------------- 
 Máme fugující scrappingový script (part_A_scrapping_v1.R), který náhodně vybírá a stahuje články do databáze.
 Úkoly: 
