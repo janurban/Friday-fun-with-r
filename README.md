@@ -1,4 +1,12 @@
 # Friday Fun With R
+14.1.2022--------------------------------------
+Co jsme zjistili:
+1. Většina článků s chybějícím textem, ale i článků s chybějícím datem v naší databázi ve skutečnosti existuje.
+2. Regular expressions, které využívá package stringr jsou popsány zde: https://stringr.tidyverse.org/articles/regular-expressions.html a také poznámka zde: https://stackoverflow.com/questions/39086400/extracting-a-string-between-other-two-strings-in-r
+
+Úkoly na příště: 
+1. Ověřit kde jsou texty, nadpisy a perexy u článků, které nám chybí v databázi. Každý zkusí ověřit 10 chybějících článků  a zapíše do Google tabulky (viz email).
+
 7.1.2022--------------------------------------
 Úkoly na přístě.
 1. Chceme stahovat články, které mají text v jiném nodu, než náš původní výběr. Podívejte se na script part_A_scrapping_debuging.R. Článek s číslem 126055 v původním výběru nebyl. Tento skript ho dokáže stáhnout, ale zatím z něco nezíská text. Problém bude v nastavení oddělovačů.
