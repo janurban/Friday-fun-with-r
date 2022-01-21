@@ -1,4 +1,15 @@
 # Friday Fun With R
+21.1.2022--------------------------------------
+Co jsme zjistili: 
+1. Struktura článků se hodně mění. Problémem jsou nežádoucí texty (odkazy na honé článkyú, které jsou umístěné v textech.
+2. Užitečné je pro nás vyhledávat cílové části textů na základě jejich atributů (např. úroveň titulku, h1 pro hlavní titulek). Více zde: https://cran.r-project.org/web/packages/rvest/vignettes/rvest.html
+
+Úkoly na přístě: 
+1. Prozkoumat nový scrappovací skript: part_A_scrapping_debuging2.R
+2. Zkusit intergovat přástup ze skriptu part_A_scrapping_debuging2.R do původního skriptu part_A_scrapping_v2.R (na ř. 9 nastavit menší rozsah: article.index <- article.index_0 [c(1:200)] )
+3. Daří se stahovat více článků, než původně? Jsou v textech nějaké nadbytečné části, které tam nepatří?
+
+
 14.1.2022--------------------------------------
 Co jsme zjistili:
 1. Většina článků s chybějícím textem, ale i článků s chybějícím datem v naší databázi ve skutečnosti existuje.
