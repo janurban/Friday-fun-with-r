@@ -1,4 +1,21 @@
 # Friday Fun With R
+28.1. 2022--------------------------------------
+Co jsme zjistili:
+1. Problémy ve scrapování Blesku se nepodařilo zcela vyřešit.
+2. Seznam knih a dalších zdrojů o různých tématech a problémech najdete ve Velké knize: https://www.bigbookofr.com/index.html
+Textová analýza: 
+Budeme používat tuto knihu: https://www.tidytextmining.com/index.html
+můžete ji také nají na Amazonu.
+Jiné knihy a tutoriály, které se zabývají analýzou textu jsou:
+https://m-clark.github.io/text-analysis-with-R/
+https://www.amazon.com/Text-Analysis-Literature-Quantitative-Humanities/dp/3030396428
+https://towardsdatascience.com/a-light-introduction-to-text-analysis-in-r-ea291a9865a8
+
+Úkoly na příště: 
+1. Odladit scrapovací script.
+2. Přečíst první kapitolu knihy https://www.tidytextmining.com/index.html
++ včetně analýz, které jsou v 1. kapitole.
+
 21.1.2022--------------------------------------
 Co jsme zjistili: 
 1. Struktura článků se hodně mění. Problémem jsou nežádoucí texty (odkazy na honé článkyú, které jsou umístěné v textech.
