@@ -1,4 +1,15 @@
 # Friday Fun With R
+4.2. 2022--------------------------------------
+Co jsme zjistili: 
+1. podařilo se odladit scrapovací skript (part_A_scrapping_v3.R). Přes noc jsem stáhnul 10,000 článků, je tam jen asi 5% missingů. Zkuste prozkoumat skript a zkuste si stáhnout nějaké menší množství (1,000) ať ten server moc netrápíme a nezakáží nám přístup. 
+2. Prošli jsme první kapitoli naší knihy (https://www.tidytextmining.com/index.html). Kniha je pěkně udělaná. Některé věci budeme muset adaptovat na češtinu (slovenštinu). Bylo by dobré k tomu psát nějaké poznámky a pak to zveřejnit jako doplněk k té knize.
+3. Také jsme trochu hovořili o nějakých nápadech na analýzu a článek. Momentální plán je, že zkusíme projít knihu kapitolu po kapitole a jednu hodinu si projdeme příklady, které jsou v knize a další týden to zkusíme aplikovat na naše články v češtině. Aź tu knihu projdeme celou, tak budeme mít další nápady.
+4. Otázka je, jesti naši práci nepřesunout na OSF.
+Úkoly na příště (což bude až 25.2., teď budu out of office):
+1. Projděte scrappovací skript, ujistěte se, že všemu rozumíte a kdyžtak napište otázky.
+2. Zkuste stáhnout data (nějaká mála, třeba N = 1,000) a aplikovat na ně analýzy z kapitoly 1.
+3. Zkuste projít a vyzkoušet kapitolu 2. Pokud budete mít energii a čas, tak zkuste i aplikovat na naše data.
+
 28.1. 2022--------------------------------------
 Co jsme zjistili:
 1. Problémy ve scrapování Blesku se nepodařilo zcela vyřešit.
