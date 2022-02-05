@@ -5,6 +5,7 @@ Co jsme zjistili:
 2. Prošli jsme první kapitoli naší knihy (https://www.tidytextmining.com/index.html). Kniha je pěkně udělaná. Některé věci budeme muset adaptovat na češtinu (slovenštinu). Bylo by dobré k tomu psát nějaké poznámky a pak to zveřejnit jako doplněk k té knize.
 3. Také jsme trochu hovořili o nějakých nápadech na analýzu a článek. Momentální plán je, že zkusíme projít knihu kapitolu po kapitole a jednu hodinu si projdeme příklady, které jsou v knize a další týden to zkusíme aplikovat na naše články v češtině. Aź tu knihu projdeme celou, tak budeme mít další nápady.
 4. Otázka je, jesti naši práci nepřesunout na OSF.
+
 Úkoly na příště (což bude až 25.2., teď budu out of office):
 1. Projděte scrappovací skript, ujistěte se, že všemu rozumíte a kdyžtak napište otázky.
 2. Zkuste stáhnout data (nějaká mála, třeba N = 1,000) a aplikovat na ně analýzy z kapitoly 1.
