@@ -1,4 +1,7 @@
 # Friday Fun With R
+25.2.2022
+We have migrated the project here: https://osf.io/d6ufh/wiki/home/?view_only=4327977f78794b0a876318ffa16f73ad
+
 4.2. 2022--------------------------------------
 Co jsme zjistili: 
 1. podařilo se odladit scrapovací skript (part_A_scrapping_v3.R). Přes noc jsem stáhnul 10,000 článků, je tam jen asi 5% missingů. Zkuste prozkoumat skript a zkuste si stáhnout nějaké menší množství (1,000) ať ten server moc netrápíme a nezakáží nám přístup. 
